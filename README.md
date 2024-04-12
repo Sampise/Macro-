@@ -3,7 +3,7 @@
 Macro++ is a Python script that allows you to easily select and input codes by listening to mouse button clicks. This can be useful for scenarios where you need to input various codes quickly, such as in testing environments or applications that require frequent code inputs.
 
 **Important Note:**
-This project was originally created for a very specific scenario for a friend of mine, and it was not initially intended for public use. However, I've decided to upload it to share it anyways.
+This project was originally created for a very specific scenario for a friend of mine, and it was not initially intended for public use. However, I've decided to upload it & share it anyways.
 
 
 ## Features
