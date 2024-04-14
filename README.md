@@ -18,7 +18,7 @@ This project was originally created for a very specific scenario for a friend of
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/mouse-code-selector.git
+    git clone https://github.com/Sampise/Macro-.git
     ```
 
 2. Install the required dependencies:
